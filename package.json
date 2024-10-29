@@ -1,0 +1,20 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
+    "gradient-string": "^3.0.0",
+    "header-generator": "^2.1.56",
+    "user-agents": "^1.1.342"
+  }
+}
